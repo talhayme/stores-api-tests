@@ -1,0 +1,6 @@
+{
+  "item_test.py::ItemTest::test_crud": true,
+  "item_test.py::ItemTest::test_store_relationship": true,
+  "test_store.py::StoreTest::test_crud": true,
+  "test_user.py": true
+}

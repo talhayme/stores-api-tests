@@ -1,0 +1,6 @@
+{
+  "test_item.py::ItemTest::test_get_item": true,
+  "test_item.py::ItemTest::test_get_item_no_auth": true,
+  "test_store.py": true,
+  "test_user.py::UserTest::test_register_duplicate_user": true
+}
